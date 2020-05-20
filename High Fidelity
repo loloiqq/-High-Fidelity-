@@ -1,0 +1,54 @@
+
+    <!– Lorenzo Quiroga CSCI1145 6/5/2018 –>
+    <!DOCTYPE html>
+    <html>
+    <head>
+	<style>p {
+    text-indent: 30px;
+}
+</style>
+    <meta charset="UTF-8">
+    <title>Title of the document</title>
+	 <link rel="stylesheet" href="format1.css">
+    </head>
+     
+    <body>
+  
+	 <h1 align="center">High Fidelity</h1> 
+     
+     
+     
+      <p>It's based on the Nick Hornby novel by the same name. The setting for the movie was changed from London to Chicago. 
+	  It was released in 2000. The plot is about Rob Gordon, owner of a Record store and self-confesed obsesion with books, music, 
+	  and movies, who is going through a break-up from his girlfriend, Laura. 
+	  <br>
+	  He owns "Championship Vynil Record Store" and has two workers: Dick and Barry. He analyzes his life though his past break-up 
+	  as music loving man with a poor understanding of women.</p>
+      Cast & Crew
+	  <ul>
+  <li>John Cusack as Rob Gordon</li>
+  <li>Iben Hjejle as Laura</li>
+  <li>Jack Black as Barry Judd</li>
+  <li>Todd Louiso as Dick</li>
+  <li>Catherine Zeta-Jones as Charlie Nicholson</li>
+  <li>Lisa Bonet as Marie DeSalle</li>
+  <li>Sara Gilbert as Annaugh Moss</li>
+  <li>Lili Taylor as Sarah Kendrew</li>
+  <li>Joan Cusack as Liz</li>
+  <li>Tim Robbins as Ian "Ray" Raymond</li>
+  <br>
+  <li>Directed by Stephen Frears</li>
+  <li>Produced by Tim Bevan and Rudd Simmons
+  <li>Screenplay by D. V. DeVincentis,
+       Steve Pink,
+       John Cusack, and 
+       Scott Rosenberg</li>
+  <li>Based on	High Fidelity
+       by Nick Hornby</li>
+	   
+	   
+	  <a href="https://www.imdb.com/title/tt0146882/"> Movie Info</a> | <a href="mailto:lquiroga@student.cscc.edu">Email</a>.
+   
+    </body>
+    </html>
+
